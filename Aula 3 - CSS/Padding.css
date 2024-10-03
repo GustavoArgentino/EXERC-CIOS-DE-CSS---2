@@ -1,0 +1,16 @@
+body{
+    margin: 0px;
+    box-sizing: border-box;
+}
+
+.caixa{
+    height: 12.5rem;
+    width: 6.25rem;
+    background-color: black;
+    padding: 1.25rem;
+    border: 2px solid gray;
+}
+
+p{
+    color: #fff;
+}
